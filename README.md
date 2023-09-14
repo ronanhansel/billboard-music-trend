@@ -1,9 +1,10 @@
-# US-music-pop-culture
+# Billboard Music Trend Analysis
 People often listen to the music that resonates with their mood, so is the inverse conclusion remain correct? Does current affair affect what kind of music people listen to. If so, can we use music trends as an accurate predictor of societal changes.
-# Resources
+# Prerequisites
 * [Billboard hot 100 since 1958 to 2023](https://github.com/HipsterVizNinja/random-data)
 * [Spotify API](https://developer.spotify.com/documentation/web-api)
 * [Billboard charts](https://www.billboard.com/charts/)
+* Spotify API stored under spotify_secret.json as strings with two keys: "ID", "Key"
 # Working with data
 My process of working with data includes:
 1. Cleaning data from the Billboard database.
