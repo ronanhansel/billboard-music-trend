@@ -12,7 +12,28 @@ My process of working with data includes:
 4. Cleaning new dataframe.
 5. Plotting dataframe.
 6. Analysing dataframe.
+The whole process can be viewed [here](main.ipynb)
 # Analysis
+![image](./plots/output_1.png)
+
+*Music duration trends*
+
+![image](./plots/output_2.png)
+
+*Music tempo trends*
+
+![image](./plots/output_3.png)
+
+*Music loudness trends*
+
+![image](./plots/output_4.png)
+
+*Music audio features trends*
+
+![image](./plots/output_5.png)
+
+*Music audio features with highlight in positivity/negativity trends*
+
 ### Suggested Questions
 * Does the music people often listen reflective of the current affairs in the US?
 * Why does valence decrease over time?
