@@ -5,6 +5,12 @@ People often listen to the music that resonates with their mood, so is the inver
 * [Spotify API](https://developer.spotify.com/documentation/web-api)
 * [Billboard charts](https://www.billboard.com/charts/)
 * Spotify API stored under spotify_secret.json as strings with two keys: "ID", "Key"
+```
+{
+    "ID": "abcd...",
+    "Key": "abcd..."
+}
+```
 # Working with data
 My process of working with data includes:
 1. Cleaning data from the Billboard database.
