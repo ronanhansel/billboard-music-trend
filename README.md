@@ -34,13 +34,19 @@ The whole process can be viewed [here](main.ipynb)
 
 *Music audio features with highlight in positivity/negativity trends*
 
-### Suggested Questions
+
+## Trends
+* Valence goes down
+* Danceability & Energy go up
+* Tempo rises
+* Loudness, duration go down
+## Suggested Questions
 * Does the music people often listen reflective of the current affairs in the US?
 * Why does valence decrease over time?
 * Why do danceability and energy increase over time?
 * Why after a decrease in valence, it doesn't come back up nearly as strong as before?
 
-### Events
+## Events
 * 1945 - 1964: Post-war economic growth.
 * 1964 - 1973: Begin to protest - American retreat (Vietnam War).
 * 1981 - 1982: US Recession.
