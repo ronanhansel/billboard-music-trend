@@ -12,7 +12,7 @@ My process of working with data includes:
 4. Cleaning new dataframe.
 5. Plotting dataframe.
 6. Analysing dataframe.
-The whole process can be viewed [here](main.ipynb)
+The full process and explanation can be viewed [here](main.ipynb)
 # Analysis
 ![image](./plots/output_1.png)
 
